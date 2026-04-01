@@ -1,6 +1,6 @@
 {
-    "launcher_version": "1.0.1",
-    "core_version": "1.0.0",
+    "launcher_version": "1.0.2",
+    "core_version": "1.0.1",
     "launcher_url": "https://github.com/logiforce/FoxScan-Release/raw/main/FoxScan_Launcher.exe",
     "files": {
         "core/FoxScan.exe": "9c0a1ff75d33bc559ed19f8944ee2d253a41ce8f60cf9c17fbfc0ffaa349ccd5",
