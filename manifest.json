@@ -3,7 +3,7 @@
     "core_version": "1.0.3",
     "launcher_url": "https://github.com/logiforce/FoxScan-Release/raw/main/FoxScan_Launcher.exe",
     "files": {
-        "core/FScore.exe": "907b31c2ed739d361cd47cfd59828a99cea97f674a72c134267c13dc7390e130",
+        "core/FScore.exe": "0952d9c608c923ad6f03aa09c759b1cb6e63f5b70bcb7ee8fe322e444a1cdd3b",
         "core/libcrypto-3.dll": "4e5d5d20d6d31e72ab341c81e97b89e514326c4c861b48638243bdf0918cfa43",
         "core/libffi-8.dll": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
         "core/libssl-3.dll": "2e4d35b681a172d3298caf7dc670451be7a8ba27c26446efc67470742497a950",
